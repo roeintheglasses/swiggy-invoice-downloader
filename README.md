@@ -3,7 +3,7 @@
 This Google Apps Script downloads all Swiggy invoice attachments from your Gmail and saves them as PDFs in a dedicated Google Drive folder.
 
 ## Usage
-1. **Copy the Script:** Copy the entire script code provided.
+1. **Copy the Script:** Copy the entire script code provided in index.js.
 2. **Open Apps Script Editor:** In your Browser open [Google AppsScript](https://script.google.com/) > Click on New Project.
 3. **Paste the Script:** Paste the copied code into the script editor window.
 4. **Save the Script:** Click File > Save.
