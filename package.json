@@ -1,0 +1,9 @@
+{
+  "name": "swiggy-invoice-downloader",
+  "version": "1.0.0",
+  "description": "Google Apps Script based Invoice downloader for swiggy",
+  "main": "index.js",
+  "repository": "git@github.com:roeintheglasses/swiggy-invoice-downloader.git",
+  "author": "roeintheglasses <hrkjangir@gmail.com>",
+  "license": "MIT"
+}
